@@ -1,4 +1,4 @@
-# int20h_test
+# int20h-2023 test assignment
 all info in: int20h-ds-test.pdf <br>
 dataset in: int20h-ds-test-dataset.csv <br>
 notebook with solution: TBD
